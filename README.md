@@ -1,4 +1,4 @@
-readme_content = """# Modern Animated Calculator
+"""# Modern Animated Calculator
 
 A sleek, responsive, and visually stunning web-based calculator featuring a dynamic animated gradient background and an intelligent auto-scaling display.
 
@@ -13,7 +13,7 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 
 ## 📸 Preview
 
-(<img width="1913" height="910" alt="Screenshot 2026-05-27 182032" src="https://github.com/user-attachments/assets/66ccc19f-6deb-4959-baef-7747b23aad6d" />)
+![Calculator Demo](<img width="1913" height="910" alt="Screenshot 2026-05-27 182032" src="https://github.com/user-attachments/assets/73e3bf45-ecd0-446f-a53e-4148f2d8dd38" />)
 
 ## 🛠️ Technologies Used
 
@@ -34,6 +34,3 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 
 Developed with ❤️ by [Nicolas Uchimura](https://github.com/seu-usuario-do-github)
 """
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
