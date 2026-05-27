@@ -1,4 +1,4 @@
-"""# Modern Animated Calculator
+# Modern Animated Calculator
 
 A sleek, responsive, and visually stunning web-based calculator featuring a dynamic animated gradient background and an intelligent auto-scaling display.
 
@@ -33,4 +33,4 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 ---
 
 Developed with ❤️ by [Nicolas Uchimura](https://github.com/seu-usuario-do-github)
-"""
+
