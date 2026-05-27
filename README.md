@@ -6,7 +6,7 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 
 - **Basic Arithmetic:** Supports addition, subtraction, multiplication, and division.
 - **Dynamic Background:** A beautiful, smooth 15-second infinite gradient transition CSS animation.
-- **Smart Display:** - Centered placeholder text (`type the numbers`) that disappears when typing.
+- **Smart Display:** - Centered placeholder text (`Type here`) that disappears when typing.
   - **Auto-scaling font size:** Text automatically shrinks as numbers get longer to prevent layout breaking or overflowing.
 - **Modern UI:** Clean layout using CSS Grid and Flexbox with customized button states.
 - **Developer Footer:** Elegant, high-readability credit section.
