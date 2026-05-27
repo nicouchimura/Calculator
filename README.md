@@ -32,5 +32,5 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 
 ---
 
-Developed with ❤️ by [Nicolas Uchimura](https://github.com/seu-usuario-do-github)
+Developed with ❤️ by [Nicolas Uchimura](nicouchimura)
 
