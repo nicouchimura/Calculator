@@ -13,7 +13,7 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
 
 ## 📸 Preview
 
-![Calculator Demo](<img width="1913" height="910" alt="Screenshot 2026-05-27 182032" src="https://github.com/user-attachments/assets/66ccc19f-6deb-4959-baef-7747b23aad6d" />)
+(<img width="1913" height="910" alt="Screenshot 2026-05-27 182032" src="https://github.com/user-attachments/assets/66ccc19f-6deb-4959-baef-7747b23aad6d" />)
 
 ## 🛠️ Technologies Used
 
