@@ -1,7 +1,4 @@
-
-
-## 📸 Preview
-<img width="1912" height="910" alt="image" src="https://github.com/user-attachments/assets/97a2c8c2-9ee6-40a8-868e-12542da27ed5" />readme_content = """# Modern Animated Calculator
+readme_content = """# Modern Animated Calculator
 
 A sleek, responsive, and visually stunning web-based calculator featuring a dynamic animated gradient background and an intelligent auto-scaling display.
 
@@ -13,7 +10,11 @@ A sleek, responsive, and visually stunning web-based calculator featuring a dyna
   - **Auto-scaling font size:** Text automatically shrinks as numbers get longer to prevent layout breaking or overflowing.
 - **Modern UI:** Clean layout using CSS Grid and Flexbox with customized button states.
 - **Developer Footer:** Elegant, high-readability credit section.
-  
+
+## 📸 Preview
+
+![Calculator Demo](<img width="1913" height="910" alt="Screenshot 2026-05-27 182032" src="https://github.com/user-attachments/assets/66ccc19f-6deb-4959-baef-7747b23aad6d" />)
+
 ## 🛠️ Technologies Used
 
 - **HTML5** - Structure and semantic layout
